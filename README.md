@@ -5,8 +5,10 @@
 
 <br><br>
 
-- :school: Soy egresado de la carrera de Ingeniería de software en la [Universidad Tecnológica del Perú](https://www.utp.edu.pe/cgt/facultad-de-ingenieria/ingenieria-de-software)
-
+- :school: Pregrado de la carrera de Ingeniería de software en la [Universidad Tecnológica del Perú](https://www.utp.edu.pe/cgt/facultad-de-ingenieria/ingenieria-de-software)
+- :technologist: Busco interpretar los desafios del mundo real como soluciones tecnologicas.
+- :computer:  Mejorando mi lógica de programación en  `Leetcode`, .
+- :student: Actualmente practico mis habilidades en `Computer Science`.
 <!--
 **RadiowaveDev/RadiowaveDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
