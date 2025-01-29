@@ -6,8 +6,8 @@
 <br><br>
 
 - :school: Pregrado de la carrera de Ingeniería de software en la [Universidad Tecnológica del Perú](https://www.utp.edu.pe/cgt/facultad-de-ingenieria/ingenieria-de-software)
-- :technologist: Busco interpretar los desafios del mundo real a través de `soluciones tecnológicas`.
-- :computer:  Mejorando mi lógica de programación en  `Leetcode` y  `HackerRank`.
+- :technologist: Apasionado por la programación web e inteligencia de negocio. Busco interpretar los desafios del mundo real a través de `soluciones tecnológicas`.
+- :computer:  Aprendiendo lenguajes de programación y tecnologías de forma autodidacta en `FreeCodeCamp` y  `Udemy`.
 - :student: Actualmente practico mis habilidades creación de `APIs` y `Unit Testing`.
 
 ## 🛠️ Mis habilidades
