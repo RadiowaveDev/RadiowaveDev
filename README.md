@@ -1,10 +1,9 @@
 <h1 align="center">Hola ,Soy Ángel A. Gonzales <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
-<br><br>
-
+<br>
 - :school: Pregrado de la carrera de Ingeniería de software en la [Universidad Tecnológica del Perú](https://www.utp.edu.pe/cgt/facultad-de-ingenieria/ingenieria-de-software)
 - :technologist: Apasionado por la programación web e inteligencia de negocio. Busco interpretar los desafios del mundo real a través de `soluciones tecnológicas`.
 - :computer:  Aprendiendo lenguajes de programación y tecnologías de forma autodidacta en `FreeCodeCamp` y  `Udemy`.
@@ -40,12 +39,6 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQLserver logo"/>
   <img width="12"/>
-</div>
-
-### Redes Sociales
-<div align="center">
-  <a href="https://www.linkedin.com/in/%C3%A1ngel-%C3%A1lvaro-gonzales-088369342/">
-   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
 </div>
 
 <!--
