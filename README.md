@@ -35,6 +35,8 @@
 
 ### <picture> <img src="https://images.assetsdelivery.com/compings_v2/antonshaparenko/antonshaparenko2003/antonshaparenko200300218.jpg" width=40px> </picture> Business Intelligence
 <div align="center">
+  <picture><img src="https://www.kindpng.com/picc/m/133-1335572_microsoft-excel-logo-png-transparent-png.png" width="40px"/></picture>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySql logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQLserver logo"/>
