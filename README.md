@@ -7,7 +7,7 @@
 - :school: Pregrado de la carrera de Ingeniería de software en la [Universidad Tecnológica del Perú](https://www.utp.edu.pe/cgt/facultad-de-ingenieria/ingenieria-de-software)
 - :technologist: Apasionado por la programación web e inteligencia de negocio. Busco interpretar los desafios del mundo real a través de `soluciones tecnológicas`.
 - :computer:  Aprendiendo lenguajes de programación y tecnologías de forma autodidacta en `FreeCodeCamp` y  `Udemy`.
-- :student: Actualmente practico mis habilidades creación de `APIs` y `Unit Testing`.
+- :student: Actualmente practico mis habilidades de back-end dev en `C# `, creación de `APIs` y el entorno `.NET`.
 
 ## 🛠️ Mis habilidades
 
@@ -17,9 +17,7 @@
  <img width="12"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java logo"/>
  <img width="12"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python logo" />
- <img width="12"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP logo"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C# logo"/>
 </div>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Desarrollo Front-end
