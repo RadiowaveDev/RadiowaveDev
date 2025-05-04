@@ -13,33 +13,53 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de Programación
 <div align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="Javascript logo"/>
- <img width="12"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java logo"/>
- <img width="12"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C# logo"/>
+   <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"/>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java logo"/>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C# logo"/>
+      </td>
+    </tr>
+    <!-- Fila 2: Nombres -->
+    <tr>
+      <td align="center">JavaScript</td>
+      <td align="center">Java</td>
+      <td align="center">C#</td>
+    </tr>
+  </table>
 </div>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Desarrollo Front-end
 <div align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"/>
- <img width="12"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"/>
- <img width="12"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="40" alt="Astro logo"/>
- <img width="12"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="Figma logo"/>
+ <table>
+  <tr>
+   <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"/>
+   </td> 
+   <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"/>
+   </td>
+   <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="40" alt="Astro logo"/>
+   </td>
+   <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="Figma logo"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center"> HTML</td>
+   <td aling="center"> CSS</td>
+   <td align="center"> Astro</td>
+   <td align="center"> Figma</td>
+  </tr>
+ </table> 
 </div>
 
-### <picture> <img src="https://images.assetsdelivery.com/compings_v2/antonshaparenko/antonshaparenko2003/antonshaparenko200300218.jpg" width=40px> </picture> Business Intelligence
-<div align="center">
-  <picture><img src="https://www.kindpng.com/picc/m/133-1335572_microsoft-excel-logo-png-transparent-png.png" width="40px"/></picture>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySql logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQLserver logo"/>
-  <img width="12"/>
-</div>
 
 <!--
 **RadiowaveDev/RadiowaveDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
