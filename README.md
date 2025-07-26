@@ -6,8 +6,8 @@
 <br><br>
 - :school: Pregrado de la carrera de Ingeniería de software en la [Universidad Tecnológica del Perú](https://www.utp.edu.pe/cgt/facultad-de-ingenieria/ingenieria-de-software)
 - :technologist: Apasionado por la programación web e inteligencia de negocio. Busco interpretar los desafios del mundo real a través de `soluciones tecnológicas`.
-- :computer:  Aprendiendo lenguajes de programación y tecnologías de forma autodidacta en `FreeCodeCamp` y  `Udemy`.
-- :student: Actualmente practico mis habilidades de back-end dev en `C# `, creación de `APIs` y el entorno `.NET`.
+- :computer:  Aprendo lenguajes de programación y tecnologías de forma autodidacta en las plataformas de `FreeCodeCamp`, `Simpl!Learn` e  `Udemy`.
+- :student: Actualmente practico mis habilidades de back-end dev en `C# `, creación de `APIs` y el entorno `.NET` en [Código By Tecsup](https://codigo.edu.pe/bootcamp/desarrollo-web-fullstack-con-c/).
 
 ## 🛠️ Mis habilidades
 
@@ -16,13 +16,13 @@
    <table>
     <tr>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="25" alt="JavaScript logo"/>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="35" alt="Java logo"/>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C# logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" width="30" alt="C# logo"/>
       </td>
     </tr>
     <!-- Fila 2: Nombres -->
@@ -39,23 +39,19 @@
  <table>
   <tr>
    <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="35" width="35" alt="HTML5 logo"/>
    </td> 
    <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3 logo"/>
    </td>
    <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="40" alt="Astro logo"/>
-   </td>
-   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="Figma logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="35" alt="React logo"/>
    </td>
   </tr>
   <tr>
-   <td align="center"> HTML</td>
-   <td aling="center"> CSS</td>
-   <td align="center"> Astro</td>
-   <td align="center"> Figma</td>
+   <td align="center">HTML</td>
+   <td aling="center">CSS</td>
+   <td align="center">React</td>
   </tr>
  </table> 
 </div>
