@@ -1,4 +1,4 @@
-<h1 align="center">Hola ,Soy Ángel A. Gonzales <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hola , soy Ángel Gonzales</h1>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
@@ -9,65 +9,31 @@
 - :computer:  Aprendo lenguajes de programación y tecnologías de forma autodidacta en las plataformas de `FreeCodeCamp`, `Simpl!Learn` e  `Udemy`.
 - :student: Actualmente practico mis habilidades de back-end dev en `C# `, creación de `APIs` y el entorno `.NET` en [Código By Tecsup](https://codigo.edu.pe/bootcamp/desarrollo-web-fullstack-con-c/).
 
-## 🛠️ Mis habilidades
+## 🛠️ Stack Tecnológico
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de Programación
-<div align="center">
-   <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="25" alt="JavaScript logo"/>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="35" alt="Java logo"/>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" width="30" alt="C# logo"/>
-      </td>
-    </tr>
-    <!-- Fila 2: Nombres -->
-    <tr>
-      <td align="center">JavaScript</td>
-      <td align="center">Java</td>
-      <td align="center">C#</td>
-    </tr>
-  </table>
-</div>
+### Lenguajes y Frameworks Backend 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Desarrollo Front-end
-<div align="center">
- <table>
-  <tr>
-   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="35" width="35" alt="HTML5 logo"/>
-   </td> 
-   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3 logo"/>
-   </td>
-   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="35" alt="React logo"/>
-   </td>
-  </tr>
-  <tr>
-   <td align="center">HTML</td>
-   <td aling="center">CSS</td>
-   <td align="center">React</td>
-  </tr>
- </table> 
-</div>
+### Bases de datos
+![SqlServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+### Desarrollo Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<!--
-**RadiowaveDev/RadiowaveDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-Here are some ideas to get you started:
+### Estadísticas de la cuenta GitHub
+![Angel Gonzales' GitHub stats](https://github-readme-stats.vercel.app/api?username=RadiowaveDev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadiowaveDev&layout=compact&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
